@@ -32,7 +32,7 @@ params:
     favicon: /cookie.jpg
 
     footer:
-        since: 2024
+        since: 2025
         customText:
 
     dateFormat:
