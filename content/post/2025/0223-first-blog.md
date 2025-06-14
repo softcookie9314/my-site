@@ -17,4 +17,5 @@ Welcome to my blog!
 
 <!--more-->
 
-Testing hugo blog
+23 Feb 2025
+- Spent 1hr First 23:28 min of https://www.youtube.com/watch?v=LOhfqjmasi0&t=708s
